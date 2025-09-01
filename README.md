@@ -1,4 +1,5 @@
 # ENGS 27X25 Final Project
+By: Camry Gach, Mia Jones, and Abhinav Reddy
 
 ## Prerequisites
 - Python 3.x
@@ -23,7 +24,7 @@
 - `corpus/`: Directory containing training data
   - `brown-train-sentences.txt`: Training corpus
 - `noisy_channel_results.json`: Results from the noisy channel model
-- `ENGS_27_Final_Project_Starter.ipynb`: Jupyter notebook with project code and analysis
+- `ENGS_27_Final_Project_Starter.ipynb`: Jupyter notebook with project code and analysis, only accepts lower case letters
 
 Or open the Jupyter notebook for interactive analysis:
 ```bash
